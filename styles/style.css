@@ -39,7 +39,7 @@ h3 {
 
 /* header seaction with a nav and hero */
 header {
-  min-height: 100vh;
+  min-height: 80vh;
   background-image: url(../images/bg-hero-mobile.svg);
   background-color: var(--veryPaleCyan);
   background-repeat: no-repeat;
