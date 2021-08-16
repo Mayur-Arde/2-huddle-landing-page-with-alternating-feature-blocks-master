@@ -187,7 +187,7 @@ nav {
 .footer {
   background-color: var(--veryDarkCyan);
   color: white;
-  padding: 100px 15px 40px;
+  padding: 100px 15px 30px;
   font-size: 15px;
   overflow: visible;
   z-index: -1;
