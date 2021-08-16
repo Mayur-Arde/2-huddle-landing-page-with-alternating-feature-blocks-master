@@ -39,7 +39,7 @@ h3 {
 
 /* header seaction with a nav and hero */
 header {
-  min-height: 90vh;
+  min-height: 100vh;
   background-image: url(../images/bg-hero-mobile.svg);
   background-color: var(--veryPaleCyan);
   background-repeat: no-repeat;
@@ -48,7 +48,7 @@ header {
 }
 
 nav {
-  padding: 20px 15px;
+  padding: 25px 15px;
 }
 
 .nav-logo {
@@ -70,7 +70,7 @@ nav {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 1.4rem;
+  margin-top: 1.7rem;
 }
 
 .hero-text {
@@ -108,7 +108,7 @@ nav {
 
 .hero .hero-img {
   width: 80%;
-  margin: 0 auto;
+  margin: 30px auto;
 }
 /* header with nav and hero done */
 
